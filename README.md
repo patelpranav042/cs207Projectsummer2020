@@ -38,7 +38,10 @@ Jumper wires a useful component to connect the circuit. These wires have connect
  A breadboard is the most basic piece when it comes to building a prototype for any circuit. It is also referred as a solderless board because it requires no soldering to connect the wires.
 •	ARDUINO IDE is needed to communicate to the Arduino board and perform operations.
 
+Circuit Diagram:
 
+
+![image](https://user-images.githubusercontent.com/68759899/90946393-8cf56900-e3e9-11ea-9127-b895dea44430.png)
 
                            
 
