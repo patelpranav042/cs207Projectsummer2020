@@ -43,8 +43,14 @@ Circuit Diagram:
 
 ![image](https://user-images.githubusercontent.com/68759899/90946393-8cf56900-e3e9-11ea-9127-b895dea44430.png)
 
-                           
 
+Test Procedure:
+ 
+Assuming the parking lot is empty, a car arrives to be parked noticing space available, driver presses entry button and light turns green after barrier opens, and number of available spaces decreases by one. After that one more car enter in parking lot with same process. Lastly, if parking lot gets full. So, even if driver push entry button they cannot enter, and light stays red. To exit parking lot, driver must press exit button and when LED turns green he can exit and the number of slot will be increased with 1 slot on the LCD display.
+
+![image](https://user-images.githubusercontent.com/68759899/90946421-d34ac800-e3e9-11ea-9818-2cf14437b914.png)
+
+                           
 
 
 
